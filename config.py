@@ -1,0 +1,1 @@
+TOKEN = "1266634678:AAFAH5S82GxSUNBC75ZjiRArOOkapTLgDPA"  # get that later

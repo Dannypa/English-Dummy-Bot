@@ -1,0 +1,94 @@
+самолет - airplane, aeroplane
+кабина самолета - cockpit
+крыло самолета - wing
+двигатель самолета - engine
+хвост самолета - tail
+машина - car
+такси - taxi
+автобус - bus
+междугородный автобус - coach
+поезд - train
+трамвай - tram
+мотоцикл - motorcycle, motorbike
+велосипед - cycle, bike
+лодка - boat
+паром - ferry
+яхта - yacht
+корабль - ship
+вертолет - helicopter
+мопед - moped
+воздушный шар - hot air balloon
+грузовик - truck, lorry
+фургон - van
+верблюд - camel
+лошадь - horse
+пассажиры - passengers
+пешеход - pedestrian
+житель пригорода, работающий в городе и ежедневно ездящий на работу поездом, автобусом и т. п. - commuter
+станция поезда - train station
+платформа - platform
+билет - ticket
+автобусная остановка - bus stop
+аэропорт - airport
+стоянка такси - taxi stand, taxi rank
+порт - port
+ездить на велосипеде - to ride a bike
+ездить на лошади - to ride a horse
+летать - to take a flight
+водить машину - to drive a car
+поехать на автобусе - to take a bus
+поехать на поезде - to take a train
+путешествовать с попутками - to hitchhike
+сесть в автобус - to get on a bus
+выйти из автобуса - to get off a bus
+сесть в такси - to get in a taxi
+выйти из такси - to get out of a taxi
+успеть на поезд - to catch a train
+опоздать на поезд - to miss a train
+подвезти кого_то - to give someone a ride, to give someone a lift
+водительские права - driver's license
+страховка - insurance
+ремень безопасности - seatbelt
+заправка - gas station, petrol station
+двигатель - engine
+поворотник - turn signal, turn indicator
+руль - steering wheel
+топливо - fuel
+бензин - gasoline, petrol
+дизель - diesel
+масло - oil
+мастерская - auto repair shop, auto repair garage
+механик - mechanic
+спустившаяся шина - flat tyre
+щетки которые на стекле - wipers
+пешеходный переход - pedestrian crossing
+светофор - traffic lights
+багажник - trunk, boot
+шина - tyre
+капот - hood, bonnet
+фару которые впереди - headlight
+колесо - wheel
+парковщик - parking attendant
+датчик скорости - speed camera
+счетчик на стоянке - parking meter
+блокиратор..? - wheel clamp
+штраф за парковку - parking ticket
+мойка - car wash
+ограничение по скорости - speed limit
+дорожный знак - road sign
+пробка - traffic jam
+парковка - parking lot, car park
+парковаться - to park
+уехать - to set off
+проверить масло - to check the oil
+заправиться - to fill up
+проверить шины - to check the tyres
+обслужить машину - to service the car
+тормозить - to brake
+замедлиться - to slow down
+ускориться - to speed up
+подобрать кого_то - to pick someone up
+высадить кого_то - to drop someone off
+иметь дтп - to have a car accident
+сломаться - to break down
+обогнать - to pass, to overtake
